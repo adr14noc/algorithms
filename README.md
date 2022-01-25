@@ -1,2 +1,2 @@
-# algorithms
+# Algorithms
 Algorithm studies and challenges
